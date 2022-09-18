@@ -1,0 +1,5 @@
+.husky/*
+.*
+package-lock.json
+package.json
+*.config.*
