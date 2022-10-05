@@ -8,7 +8,6 @@
     "build": "tsc && vite build",
     "eslint": "npx eslint",
     "preview": "vite preview",
-    "prepare": "husky install",
     "checks": "npm run eslint ."
   },
   "dependencies": {
